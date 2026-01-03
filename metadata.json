@@ -1,0 +1,8 @@
+{
+  "name": "مُحمّل الذكاء الاصطناعي - AI Video Downloader",
+  "description": "تطبيق متطور لتحميل الفيديوهات وفصل الصوت من المواقع مع ميزات تلخيص المحتوى بالذكاء الاصطناعي.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
